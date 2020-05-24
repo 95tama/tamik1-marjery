@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tamik1-marjery/static/css/main.04fbcc7c.chunk.css",
+    "main.js": "/tamik1-marjery/static/js/main.da858056.chunk.js",
+    "main.js.map": "/tamik1-marjery/static/js/main.da858056.chunk.js.map",
+    "runtime-main.js": "/tamik1-marjery/static/js/runtime-main.caffa6ea.js",
+    "runtime-main.js.map": "/tamik1-marjery/static/js/runtime-main.caffa6ea.js.map",
+    "static/js/2.6b8cfce2.chunk.js": "/tamik1-marjery/static/js/2.6b8cfce2.chunk.js",
+    "static/js/2.6b8cfce2.chunk.js.map": "/tamik1-marjery/static/js/2.6b8cfce2.chunk.js.map",
+    "index.html": "/tamik1-marjery/index.html",
+    "precache-manifest.1bd84cb977b781a0ee557528a15c8e08.js": "/tamik1-marjery/precache-manifest.1bd84cb977b781a0ee557528a15c8e08.js",
+    "service-worker.js": "/tamik1-marjery/service-worker.js",
+    "static/css/main.04fbcc7c.chunk.css.map": "/tamik1-marjery/static/css/main.04fbcc7c.chunk.css.map",
+    "static/js/2.6b8cfce2.chunk.js.LICENSE.txt": "/tamik1-marjery/static/js/2.6b8cfce2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caffa6ea.js",
+    "static/js/2.6b8cfce2.chunk.js",
+    "static/css/main.04fbcc7c.chunk.css",
+    "static/js/main.da858056.chunk.js"
+  ]
+}
